@@ -5,4 +5,5 @@ This project is a hand gesture classifier using Convolutional Neural Network (CN
 Links to dataset:
 
 Signer Dependent: https://drive.google.com/drive/folders/13QkyJLbqCAzMZoQ-tvnKbBYXnsoIJRy9?usp=share_link
+
 Signer Independent: https://drive.google.com/drive/folders/1nw7SIwbhKlZSbthQJKBHjl3fFuNdzuIb?usp=sharing
